@@ -1,0 +1,215 @@
+,Items,Antecendete,Consequente,Suporte,Confiança,Lift
+33,"{'1080', '771d19f2dd35546be40d4e07bbad1c53', '201.46.19.173', '1920'}","{'1080', '201.46.19.173', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+195,"{'chrome', '201.46.19.173', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10', '1920'}","{'chrome', '201.46.19.173', 'America/Sao_Paulo', 'Windows 10', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+99,"{'1080', '201.46.19.173', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'chrome'}","{'1080', 'America/Sao_Paulo', '201.46.19.173', 'chrome'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+98,"{'1080', '201.46.19.173', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10'}","{'1080', 'America/Sao_Paulo', '201.46.19.173', 'Windows 10'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+94,"{'1080', '201.46.19.173', '771d19f2dd35546be40d4e07bbad1c53', 'chrome', '1920'}","{'1080', '201.46.19.173', 'chrome', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+158,"{'1080', '201.46.19.173', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'chrome', '1920'}","{'1080', '201.46.19.173', 'America/Sao_Paulo', 'chrome', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+93,"{'1080', '201.46.19.173', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10', '1920'}","{'1080', '201.46.19.173', 'Windows 10', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+92,"{'1080', '201.46.19.173', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', '1920'}","{'1080', 'America/Sao_Paulo', '201.46.19.173', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+37,"{'1080', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', '201.46.19.173'}","{'1080', 'America/Sao_Paulo', '201.46.19.173'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+38,"{'1080', '771d19f2dd35546be40d4e07bbad1c53', '201.46.19.173', 'Windows 10'}","{'1080', '201.46.19.173', 'Windows 10'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+39,"{'1080', '771d19f2dd35546be40d4e07bbad1c53', '201.46.19.173', 'chrome'}","{'1080', '201.46.19.173', 'chrome'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+143,"{'201.46.19.173', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10', '1920'}","{'America/Sao_Paulo', '201.46.19.173', 'Windows 10', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+144,"{'201.46.19.173', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'chrome', '1920'}","{'America/Sao_Paulo', '201.46.19.173', 'chrome', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+145,"{'chrome', '201.46.19.173', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10', '1920'}","{'chrome', '201.46.19.173', 'Windows 10', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+147,"{'chrome', '201.46.19.173', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10'}","{'America/Sao_Paulo', '201.46.19.173', 'Windows 10', 'chrome'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+76,"{'771d19f2dd35546be40d4e07bbad1c53', '201.46.19.173', 'Windows 10', 'chrome'}","{'chrome', '201.46.19.173', 'Windows 10'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+75,"{'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', '201.46.19.173', 'chrome'}","{'America/Sao_Paulo', '201.46.19.173', 'chrome'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+74,"{'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', '201.46.19.173', 'Windows 10'}","{'America/Sao_Paulo', '201.46.19.173', 'Windows 10'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+70,"{'771d19f2dd35546be40d4e07bbad1c53', '201.46.19.173', 'chrome', '1920'}","{'201.46.19.173', 'chrome', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+69,"{'771d19f2dd35546be40d4e07bbad1c53', '201.46.19.173', 'Windows 10', '1920'}","{'201.46.19.173', 'Windows 10', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+68,"{'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', '201.46.19.173', '1920'}","{'America/Sao_Paulo', '201.46.19.173', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+161,"{'1080', 'chrome', '201.46.19.173', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10'}","{'1080', 'chrome', '201.46.19.173', 'America/Sao_Paulo', 'Windows 10'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+157,"{'1080', '201.46.19.173', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10', '1920'}","{'1080', '201.46.19.173', 'America/Sao_Paulo', 'Windows 10', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+100,"{'1080', 'chrome', '201.46.19.173', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10'}","{'1080', 'chrome', '201.46.19.173', 'Windows 10'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+159,"{'1080', 'chrome', '201.46.19.173', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10', '1920'}","{'1080', '201.46.19.173', 'Windows 10', 'chrome', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+22,"{'771d19f2dd35546be40d4e07bbad1c53', '201.46.19.173', 'chrome'}","{'201.46.19.173', 'chrome'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+21,"{'771d19f2dd35546be40d4e07bbad1c53', '201.46.19.173', 'Windows 10'}","{'201.46.19.173', 'Windows 10'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+2,"{'771d19f2dd35546be40d4e07bbad1c53', '201.46.19.173'}",{'201.46.19.173'},{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+20,"{'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', '201.46.19.173'}","{'America/Sao_Paulo', '201.46.19.173'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+198,"{'1080', 'chrome', '201.46.19.173', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10', '1920'}","{'1080', 'chrome', '201.46.19.173', 'America/Sao_Paulo', 'Windows 10', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+6,"{'1080', '771d19f2dd35546be40d4e07bbad1c53', '201.46.19.173'}","{'1080', '201.46.19.173'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+16,"{'771d19f2dd35546be40d4e07bbad1c53', '201.46.19.173', '1920'}","{'201.46.19.173', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,1.0,5.0
+135,"{'187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'chrome', 'amd radeon vega 8 mobile'}","{'187.34.105.191', '768', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+123,"{'Linux', '6149ed31bcc27ca1262dd28a3f3f4ba1', '8', 'chrome', '1366'}","{'Linux', '8', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+150,"{'Linux', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', '8', 'chrome'}","{'8', '768', 'chrome', 'Linux'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+151,"{'Linux', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}","{'Linux', 'America/Sao_Paulo', '768', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+152,"{'Linux', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome'}","{'Linux', 'America/Sao_Paulo', '768', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+153,"{'768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}","{'America/Sao_Paulo', '768', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+125,"{'Linux', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', '1366'}","{'Linux', 'America/Sao_Paulo', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+124,"{'Linux', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}","{'Linux', 'amd radeon vega 8 mobile', 'America/Sao_Paulo', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+156,"{'Linux', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}","{'Linux', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+154,"{'Linux', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'chrome', 'amd radeon vega 8 mobile'}","{'Linux', '768', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+155,"{'Linux', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', 'chrome'}","{'Linux', 'America/Sao_Paulo', '8', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+148,"{'Linux', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8'}","{'8', 'America/Sao_Paulo', '768', 'Linux'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+122,"{'6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', 'chrome', '1366'}","{'America/Sao_Paulo', '8', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+121,"{'Linux', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', '1366'}","{'Linux', 'America/Sao_Paulo', '8', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+120,"{'768', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'chrome', 'amd radeon vega 8 mobile'}","{'amd radeon vega 8 mobile', '768', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+149,"{'768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', 'chrome'}","{'8', 'America/Sao_Paulo', '768', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+127,"{'Linux', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'chrome', 'amd radeon vega 8 mobile'}","{'Linux', 'amd radeon vega 8 mobile', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+126,"{'1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}","{'amd radeon vega 8 mobile', 'America/Sao_Paulo', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+131,"{'187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}","{'America/Sao_Paulo', '187.34.105.191', '768', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+136,"{'Linux', '187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8'}","{'America/Sao_Paulo', '187.34.105.191', '8', 'Linux'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+137,"{'187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', 'chrome'}","{'America/Sao_Paulo', '187.34.105.191', '8', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+138,"{'Linux', '187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', '8', 'chrome'}","{'Linux', '187.34.105.191', '8', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+133,"{'Linux', '187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'amd radeon vega 8 mobile'}","{'Linux', '187.34.105.191', '768', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+132,"{'187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome'}","{'America/Sao_Paulo', '187.34.105.191', '768', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+139,"{'Linux', '187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}","{'Linux', '187.34.105.191', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+130,"{'187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', '8', 'chrome'}","{'8', '187.34.105.191', '768', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+146,"{'Windows 10', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'chrome', '1920'}","{'America/Sao_Paulo', 'chrome', 'Windows 10', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+140,"{'Linux', '187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome'}","{'Linux', '187.34.105.191', 'America/Sao_Paulo', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+141,"{'187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}","{'187.34.105.191', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+142,"{'Linux', '187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'chrome', 'amd radeon vega 8 mobile'}","{'Linux', '187.34.105.191', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+129,"{'Linux', '187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', '8'}","{'8', '187.34.105.191', '768', 'Linux'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+128,"{'187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8'}","{'8', '187.34.105.191', '768', 'America/Sao_Paulo'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+134,"{'Linux', '187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'chrome'}","{'Linux', '187.34.105.191', '768', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+0,"{'1080', '771d19f2dd35546be40d4e07bbad1c53'}",{'1080'},{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+165,"{'187.34.105.191', '768', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}","{'187.34.105.191', '768', '1366', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+160,"{'1080', 'chrome', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10', '1920'}","{'1080', 'Windows 10', 'America/Sao_Paulo', 'chrome', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+201,"{'Linux', '187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', '8', 'chrome', '1366'}","{'Linux', '187.34.105.191', '768', '8', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+189,"{'Linux', '187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}","{'Linux', '187.34.105.191', '768', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+190,"{'Linux', '187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome'}","{'Linux', '187.34.105.191', '768', 'America/Sao_Paulo', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+191,"{'187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}","{'187.34.105.191', '768', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+192,"{'Linux', '187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'chrome', 'amd radeon vega 8 mobile'}","{'Linux', '187.34.105.191', '768', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+193,"{'Linux', '187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', 'chrome'}","{'Linux', '187.34.105.191', 'America/Sao_Paulo', '8', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+194,"{'Linux', '187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}","{'Linux', '187.34.105.191', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+196,"{'Linux', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', 'chrome'}","{'Linux', '768', 'America/Sao_Paulo', '8', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+197,"{'Linux', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}","{'Linux', '768', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+199,"{'Linux', '187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', '1366'}","{'Linux', '187.34.105.191', '768', 'America/Sao_Paulo', '8', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+200,"{'187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', 'chrome', '1366'}","{'187.34.105.191', '768', 'America/Sao_Paulo', '8', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+202,"{'Linux', '187.34.105.191', '768', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}","{'Linux', '187.34.105.191', '768', '1366', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+187,"{'187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', 'chrome'}","{'187.34.105.191', '768', 'America/Sao_Paulo', '8', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+203,"{'Linux', '187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', '1366'}","{'Linux', '187.34.105.191', '768', 'America/Sao_Paulo', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+204,"{'187.34.105.191', '768', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}","{'187.34.105.191', '768', '1366', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+205,"{'Linux', '187.34.105.191', '768', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'chrome', 'amd radeon vega 8 mobile'}","{'Linux', '187.34.105.191', '768', '1366', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+206,"{'Linux', '187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', 'chrome', '1366'}","{'Linux', '187.34.105.191', 'America/Sao_Paulo', '8', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+207,"{'Linux', '187.34.105.191', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}","{'Linux', '187.34.105.191', '1366', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+208,"{'Linux', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', 'chrome', '1366'}","{'Linux', '768', 'America/Sao_Paulo', '8', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+209,"{'Linux', '768', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}","{'Linux', '768', '1366', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+210,"{'Linux', '187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', 'chrome'}","{'Linux', '187.34.105.191', '768', 'America/Sao_Paulo', '8', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+211,"{'Linux', '187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}","{'Linux', '187.34.105.191', '768', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+212,"{'Linux', '187.34.105.191', '8', 'chrome', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '1366'}","{'Linux', '187.34.105.191', '768', 'America/Sao_Paulo', '8', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+188,"{'Linux', '187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', '8', 'chrome'}","{'Linux', '187.34.105.191', '768', '8', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+186,"{'Linux', '187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8'}","{'Linux', '187.34.105.191', '768', 'America/Sao_Paulo', '8'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+162,"{'187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', '1366'}","{'187.34.105.191', '768', 'America/Sao_Paulo', '8', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+173,"{'Linux', '187.34.105.191', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}","{'Linux', '187.34.105.191', '1366', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+163,"{'Linux', '187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', '8', '1366'}","{'Linux', '187.34.105.191', '768', '8', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+164,"{'187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', '8', 'chrome', '1366'}","{'187.34.105.191', '768', '8', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+118,"{'Linux', '768', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'amd radeon vega 8 mobile'}","{'Linux', 'amd radeon vega 8 mobile', '768', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+166,"{'187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', '1366'}","{'187.34.105.191', '768', 'America/Sao_Paulo', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+167,"{'Linux', '187.34.105.191', '768', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'amd radeon vega 8 mobile'}","{'Linux', '187.34.105.191', '768', '1366', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+168,"{'Linux', '187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'chrome', '1366'}","{'Linux', '187.34.105.191', '768', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+169,"{'187.34.105.191', '768', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'chrome', 'amd radeon vega 8 mobile'}","{'187.34.105.191', '768', '1366', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+170,"{'Linux', '187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', '1366'}","{'Linux', '187.34.105.191', 'America/Sao_Paulo', '8', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+171,"{'187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', 'chrome', '1366'}","{'187.34.105.191', 'America/Sao_Paulo', '8', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+172,"{'Linux', '187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', '8', 'chrome', '1366'}","{'Linux', '187.34.105.191', '8', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+174,"{'Linux', '187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', '1366'}","{'Linux', '187.34.105.191', 'America/Sao_Paulo', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+185,"{'Linux', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}","{'Linux', '1366', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+175,"{'187.34.105.191', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}","{'187.34.105.191', '1366', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+176,"{'Linux', '187.34.105.191', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'chrome', 'amd radeon vega 8 mobile'}","{'Linux', '187.34.105.191', '1366', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+177,"{'Linux', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', '1366'}","{'Linux', '768', 'America/Sao_Paulo', '8', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+178,"{'768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', 'chrome', '1366'}","{'768', 'America/Sao_Paulo', '8', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+179,"{'Linux', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', '8', 'chrome', '1366'}","{'Linux', '768', '8', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+180,"{'Linux', '768', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}","{'Linux', '768', '1366', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+181,"{'Linux', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', '1366'}","{'Linux', '768', 'America/Sao_Paulo', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+182,"{'768', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}","{'768', '1366', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+183,"{'Linux', '768', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'chrome', 'amd radeon vega 8 mobile'}","{'Linux', '768', '1366', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+184,"{'Linux', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', 'chrome', '1366'}","{'Linux', 'America/Sao_Paulo', '8', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+119,"{'Linux', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'chrome', '1366'}","{'Linux', '768', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+107,"{'187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', '8', 'chrome', '1366'}","{'187.34.105.191', '8', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+117,"{'768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', '1366'}","{'America/Sao_Paulo', '768', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+45,"{'187.34.105.191', 'chrome', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'187.34.105.191', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+32,"{'771d19f2dd35546be40d4e07bbad1c53', 'chrome', 'Windows 10'}","{'chrome', 'Windows 10'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+34,"{'1080', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', '1920'}","{'1080', 'America/Sao_Paulo', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+35,"{'1080', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10', '1920'}","{'1080', 'Windows 10', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+36,"{'1080', '771d19f2dd35546be40d4e07bbad1c53', 'chrome', '1920'}","{'1080', 'chrome', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+40,"{'1080', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10'}","{'1080', 'America/Sao_Paulo', 'Windows 10'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+41,"{'1080', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'chrome'}","{'1080', 'America/Sao_Paulo', 'chrome'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+42,"{'1080', '771d19f2dd35546be40d4e07bbad1c53', 'chrome', 'Windows 10'}","{'1080', 'chrome', 'Windows 10'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+43,"{'187.34.105.191', '8', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'187.34.105.191', '8', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+44,"{'187.34.105.191', 'amd radeon vega 8 mobile', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'187.34.105.191', 'amd radeon vega 8 mobile', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+46,"{'8', '768', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'8', '768', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+30,"{'Linux', 'chrome', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'Linux', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+47,"{'amd radeon vega 8 mobile', '768', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'amd radeon vega 8 mobile', '768', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+48,"{'768', 'chrome', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'768', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+49,"{'America/Sao_Paulo', '8', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'America/Sao_Paulo', '8', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+50,"{'Linux', '8', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'Linux', '8', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+51,"{'8', 'chrome', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'8', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+52,"{'amd radeon vega 8 mobile', 'America/Sao_Paulo', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'amd radeon vega 8 mobile', 'America/Sao_Paulo', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+53,"{'America/Sao_Paulo', 'chrome', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'America/Sao_Paulo', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+54,"{'Linux', 'amd radeon vega 8 mobile', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'Linux', 'amd radeon vega 8 mobile', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+55,"{'Linux', 'chrome', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'Linux', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+31,"{'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10'}","{'America/Sao_Paulo', 'Windows 10'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+29,"{'Linux', 'amd radeon vega 8 mobile', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'Linux', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+57,"{'8', '187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'8', '187.34.105.191', '768'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+13,"{'187.34.105.191', '8', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'187.34.105.191', '8'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+3,"{'8', '6149ed31bcc27ca1262dd28a3f3f4ba1'}",{'8'},{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+4,"{'771d19f2dd35546be40d4e07bbad1c53', 'Windows 10'}",{'Windows 10'},{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+5,"{'1080', '771d19f2dd35546be40d4e07bbad1c53', '1920'}","{'1080', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+7,"{'1080', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53'}","{'1080', 'America/Sao_Paulo'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+8,"{'1080', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10'}","{'1080', 'Windows 10'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+9,"{'1080', '771d19f2dd35546be40d4e07bbad1c53', 'chrome'}","{'1080', 'chrome'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+10,"{'8', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'8', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+11,"{'amd radeon vega 8 mobile', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'amd radeon vega 8 mobile', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+12,"{'chrome', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+14,"{'187.34.105.191', 'amd radeon vega 8 mobile', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'187.34.105.191', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+28,"{'8', 'chrome', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'8', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+15,"{'187.34.105.191', 'chrome', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'187.34.105.191', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+17,"{'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', '1920'}","{'America/Sao_Paulo', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+18,"{'771d19f2dd35546be40d4e07bbad1c53', 'Windows 10', '1920'}","{'Windows 10', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+19,"{'771d19f2dd35546be40d4e07bbad1c53', 'chrome', '1920'}","{'chrome', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+23,"{'8', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'8', '768'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+24,"{'768', 'amd radeon vega 8 mobile', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'768', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+25,"{'768', 'chrome', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'768', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+26,"{'America/Sao_Paulo', '8', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'America/Sao_Paulo', '8'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+27,"{'Linux', '8', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'Linux', '8'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+56,"{'amd radeon vega 8 mobile', 'chrome', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'amd radeon vega 8 mobile', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+58,"{'187.34.105.191', '768', 'amd radeon vega 8 mobile', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'187.34.105.191', '768', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+116,"{'768', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}","{'America/Sao_Paulo', '768', '1366', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+105,"{'187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', '1366'}","{'America/Sao_Paulo', '187.34.105.191', '8', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+90,"{'Linux', 'chrome', 'amd radeon vega 8 mobile', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'Linux', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+91,"{'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'chrome', 'Windows 10'}","{'America/Sao_Paulo', 'chrome', 'Windows 10'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+95,"{'1080', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10', '1920'}","{'1080', 'America/Sao_Paulo', 'Windows 10', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+96,"{'1080', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'chrome', '1920'}","{'1080', 'America/Sao_Paulo', 'chrome', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+97,"{'1080', 'Windows 10', '771d19f2dd35546be40d4e07bbad1c53', 'chrome', '1920'}","{'1080', 'chrome', 'Windows 10', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+101,"{'1080', 'Windows 10', 'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'chrome'}","{'1080', 'America/Sao_Paulo', 'chrome', 'Windows 10'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+102,"{'187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', '8', '1366'}","{'8', '187.34.105.191', '768', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+103,"{'187.34.105.191', '768', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'amd radeon vega 8 mobile'}","{'187.34.105.191', '768', '1366', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+104,"{'187.34.105.191', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'chrome', '1366'}","{'187.34.105.191', '768', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+106,"{'Linux', '187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', '8', '1366'}","{'Linux', '187.34.105.191', '8', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+88,"{'Linux', 'America/Sao_Paulo', 'amd radeon vega 8 mobile', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'Linux', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+1,"{'771d19f2dd35546be40d4e07bbad1c53', '1920'}",{'1920'},{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+108,"{'187.34.105.191', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}","{'187.34.105.191', 'America/Sao_Paulo', '1366', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+109,"{'187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', 'chrome', '1366'}","{'187.34.105.191', 'America/Sao_Paulo', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+110,"{'Linux', '187.34.105.191', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'amd radeon vega 8 mobile'}","{'Linux', '187.34.105.191', 'amd radeon vega 8 mobile', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+111,"{'Linux', '187.34.105.191', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'chrome', '1366'}","{'Linux', '187.34.105.191', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+112,"{'187.34.105.191', '1366', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'chrome', 'amd radeon vega 8 mobile'}","{'187.34.105.191', 'amd radeon vega 8 mobile', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+113,"{'768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '8', '1366'}","{'8', 'America/Sao_Paulo', '768', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+114,"{'Linux', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', '8', '1366'}","{'8', 'Linux', '768', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+115,"{'768', '6149ed31bcc27ca1262dd28a3f3f4ba1', '8', 'chrome', '1366'}","{'8', '768', 'chrome', '1366'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+89,"{'Linux', 'America/Sao_Paulo', 'chrome', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'Linux', 'America/Sao_Paulo', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+87,"{'Linux', '8', 'chrome', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'Linux', '8', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+59,"{'187.34.105.191', '768', 'chrome', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'187.34.105.191', '768', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+72,"{'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'chrome', '1920'}","{'America/Sao_Paulo', 'chrome', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+60,"{'America/Sao_Paulo', '187.34.105.191', '8', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'America/Sao_Paulo', '187.34.105.191', '8'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+61,"{'Linux', '187.34.105.191', '8', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'Linux', '187.34.105.191', '8'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+62,"{'187.34.105.191', '8', 'chrome', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'187.34.105.191', '8', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+63,"{'187.34.105.191', 'America/Sao_Paulo', 'amd radeon vega 8 mobile', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'187.34.105.191', 'America/Sao_Paulo', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+64,"{'187.34.105.191', 'America/Sao_Paulo', 'chrome', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'187.34.105.191', 'America/Sao_Paulo', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+65,"{'Linux', '187.34.105.191', 'amd radeon vega 8 mobile', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'Linux', '187.34.105.191', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+66,"{'Linux', '187.34.105.191', 'chrome', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'Linux', '187.34.105.191', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+67,"{'187.34.105.191', 'chrome', 'amd radeon vega 8 mobile', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'187.34.105.191', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+71,"{'America/Sao_Paulo', '771d19f2dd35546be40d4e07bbad1c53', 'Windows 10', '1920'}","{'America/Sao_Paulo', 'Windows 10', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+73,"{'771d19f2dd35546be40d4e07bbad1c53', 'chrome', 'Windows 10', '1920'}","{'chrome', 'Windows 10', '1920'}",{'771d19f2dd35546be40d4e07bbad1c53'},0.2,0.6667,3.3333
+86,"{'America/Sao_Paulo', '8', 'chrome', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'America/Sao_Paulo', '8', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+77,"{'8', 'America/Sao_Paulo', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'8', 'America/Sao_Paulo', '768'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+78,"{'8', '768', 'Linux', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'8', '768', 'Linux'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+79,"{'8', '768', 'chrome', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'8', '768', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+80,"{'America/Sao_Paulo', '768', 'amd radeon vega 8 mobile', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'America/Sao_Paulo', '768', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+81,"{'America/Sao_Paulo', '768', 'chrome', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'America/Sao_Paulo', '768', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+82,"{'Linux', '768', 'amd radeon vega 8 mobile', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'Linux', '768', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+83,"{'Linux', '768', 'chrome', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'Linux', '768', 'chrome'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.3,1.0,3.3333
+84,"{'768', 'chrome', 'amd radeon vega 8 mobile', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'768', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+85,"{'Linux', 'America/Sao_Paulo', '8', '6149ed31bcc27ca1262dd28a3f3f4ba1'}","{'Linux', 'America/Sao_Paulo', '8'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
+213,"{'Linux', '187.34.105.191', 'chrome', 'amd radeon vega 8 mobile', '768', '6149ed31bcc27ca1262dd28a3f3f4ba1', 'America/Sao_Paulo', '1366'}","{'Linux', '187.34.105.191', '768', '1366', 'America/Sao_Paulo', 'chrome', 'amd radeon vega 8 mobile'}",{'6149ed31bcc27ca1262dd28a3f3f4ba1'},0.2,1.0,3.3333
