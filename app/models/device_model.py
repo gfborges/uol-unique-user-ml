@@ -11,10 +11,16 @@ class Rule:
     consequent: str
     confidence: float
 
-    def match(self, pred: dict):
+    def match(self, pred: dict) -> bool:
         pred_set = pred.items()
-        if self.antecedent.issubset(pred_set):
-            return self
+        return self.antecedent.issubset(pred_set)
+
+    def to_json(self):
+        return {
+            "antecedent": self.antecedent,
+            "consequent": self.consequent,
+            "confidence": self.confidence,
+        }
         
 class DeviceModel(metaclass=SingletonModel):
     _column_to_drop=[
@@ -64,15 +70,18 @@ class DeviceModel(metaclass=SingletonModel):
     
     def _build_rules(self):
         rules = []
+        deviceIds = frozenset(self.df['signup_md_device_id'].unique())
         for record in self.model:
             for stat in record.ordered_statistics:
-                rule = Rule(
-                    confidence=stat.confidence,
-                    antecedent=stat.items_base,
-                    consequent=next(iter(stat.items_add)),
-                )
-                rules.append(rule)
+                if stat.items_add.issubset(deviceIds):
+                    rule = Rule(
+                        confidence=stat.confidence,
+                        antecedent=stat.items_base,
+                        consequent=stat.items_add,
+                    )
+                    rules.append(rule)
         return rules
     
-    def predict(self, pred: dict):
-        return [rule.consequent for rule in self.rules if rule.match(pred)]
+    def predict(self, pred: dict) -> list[dict]:
+        matches = set([rule for rule in self.rules if rule.match(pred)])
+        return [rule.to_json() for rule in matches]
