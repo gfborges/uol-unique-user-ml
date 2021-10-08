@@ -11,11 +11,15 @@ device_model = DeviceModel()
 @bp.get("/hello")
 def hello():
     return "hello"
-    
-@bp.get("/device/predict")
+
+@bp.get("/device/rules")
+def list_rules():
+    rules = [rule.to_json() for rule in device_model.rules]
+    return jsonify(rules)
+
+@bp.post("/device/predict")
 def predict():
     # @return (deviceId & conficidence) | null
-    prediction = DeviceModel().predict(request.get_json())
-    print(prediction)
-    return jsonify(prediction)
+    prediction = device_model.predict(request.get_json())
+    return jsonify(prediction.to_json())
 

@@ -12,12 +12,12 @@ class Rule:
     confidence: float
 
     def match(self, pred: dict) -> bool:
-        pred_set = pred.items()
+        pred_set = set(pred.values())
         return self.antecedent.issubset(pred_set)
 
     def to_json(self):
         return {
-            "antecedent": self.antecedent,
+            "antecedent": list(self.antecedent),
             "consequent": self.consequent,
             "confidence": self.confidence,
         }
@@ -77,11 +77,13 @@ class DeviceModel(metaclass=SingletonModel):
                     rule = Rule(
                         confidence=stat.confidence,
                         antecedent=stat.items_base,
-                        consequent=stat.items_add,
+                        consequent=next(iter(stat.items_add)),
                     )
                     rules.append(rule)
         return rules
     
     def predict(self, pred: dict) -> list[dict]:
         matches = set([rule for rule in self.rules if rule.match(pred)])
-        return [rule.to_json() for rule in matches]
+        sort_by = lambda rule: (rule.confidence, -len(rule.antecedent))
+        matches = sorted(list(matches), key=sort_by)
+        return matches[0] if matches else None
