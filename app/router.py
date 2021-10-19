@@ -21,5 +21,7 @@ def list_rules():
 def predict():
     # @return (deviceId & conficidence) | null
     prediction = device_model.predict(request.get_json())
-    return jsonify(prediction.to_json())
+    if prediction:
+        return jsonify(prediction.to_json())
+    return jsonify({"statusCode": 404, "msg": "No rule matched"}), 404
 
