@@ -1,5 +1,6 @@
 from flask import Blueprint 
 from flask import request
+from flask import json
 from flask.json import jsonify
 from app.models import dbscan
 from app.models.device_model import DeviceModel
@@ -32,7 +33,14 @@ def list_clusters():
 
 @bp.post("/dbscan/predict")
 def cluster():
-    prediction = dbscan.predict(request.get_json())
-    return str(prediction)
+    body = request.get_json()
+    if len(body["keyups"]) != 6 and len(body["keydowns"]) != 6:
+        return jsonify({
+            "status": 400,
+            "msg": "keyups and keydowns must have 6 length",
+        }), 400
+    return jsonify({
+        "id": dbscan.predict(request.get_json())
+    }), 200
 
 

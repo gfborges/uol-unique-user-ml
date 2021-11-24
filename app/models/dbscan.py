@@ -48,9 +48,8 @@ class ModelDBSCAN(metaclass=SingletonModel):
         self.add_pred(pred)
         self.model = self._build_model()
         self._build_rules()
-        print(self.df)
-        
-        return self.model.labels_[-1]
+        pred =  self.model.labels_[-1]
+        return hashlib.blake2b(str(pred).encode(), digest_size=5).hexdigest()
 
     def get_dataframe(self):
         sql = "SELECT signup_md_key_ups, signup_md_key_downs FROM users JOIN signup_metadata USING(user_id)"
