@@ -1,1 +1,1 @@
-web: python3 -m pipenv start
+web: python3 -m pipenv run start
