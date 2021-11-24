@@ -13,7 +13,9 @@ class SingletonModel(type):
     @classmethod
     def load_models(cls):
         from app.models.device_model import DeviceModel
+        from app.models.dbscan import ModelDBSCAN
         DeviceModel()
+        ModelDBSCAN()
         
 
 

@@ -23,7 +23,7 @@ class Rule:
         }
         
 class DeviceModel(metaclass=SingletonModel):
-    _column_to_drop=[
+    _column_to_drop = [
         'user_id',
         'signup_md_id',
         'signup_md_end_date',
