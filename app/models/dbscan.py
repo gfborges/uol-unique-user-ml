@@ -52,7 +52,7 @@ class ModelDBSCAN(metaclass=SingletonModel):
         return hashlib.blake2b(str(pred).encode(), digest_size=5).hexdigest()
 
     def get_dataframe(self):
-        sql = "SELECT signup_md_key_ups, signup_md_key_downs FROM users JOIN signup_metadata USING(user_id)"
+        sql = "SELECT signup_md_key_ups, signup_md_key_downs FROM signup_metadata"
         df = pd.read_sql(sql, con=self.conn)
         key_ups_columns = df['signup_md_key_ups'].apply(pd.Series)
         key_downs_columns = df['signup_md_key_downs'].apply(pd.Series)
