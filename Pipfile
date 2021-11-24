@@ -9,6 +9,7 @@ pandas = "*"
 numpy = "*"
 apyori = "*"
 psycopg2-binary = "*"
+sklearn="*"
 
 [dev-packages]
 
