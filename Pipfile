@@ -10,6 +10,7 @@ numpy = "*"
 apyori = "*"
 psycopg2-binary = "*"
 sklearn="*"
+gunicorn="*"
 
 [dev-packages]
 
