@@ -79,7 +79,7 @@ class ModelDBSCAN(metaclass=SingletonModel):
         self.df.loc[row] = line
 
     def _build_model(self):
-        return DBSCAN(eps=210,min_samples=2,algorithm='auto')
+        return DBSCAN(eps=300,min_samples=2,algorithm='auto')
     
     def _build_rules(self):
         self.model.fit(self.df)
