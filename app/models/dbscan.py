@@ -49,6 +49,7 @@ class ModelDBSCAN(metaclass=SingletonModel):
         self.model = self._build_model()
         self._build_rules()
         pred =  self.model.labels_[-1]
+        print(self.model.labels_)
         return hashlib.blake2b(str(pred).encode(), digest_size=5).hexdigest()
 
     def get_dataframe(self):
